@@ -33,20 +33,30 @@ BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR 
 2. Update that wiki page with details from the Sprint. 
 3. Copy that format for the next Sprint.
 
-# Sprint (DATE): 
+# Sprint (March 17 & 18 2025): 
 ## Project Team & Accomplishments
-Add details here - what you did, links to docs if there are any, etc.
+   Add details here - what you did, links to docs if there are any, etc.
+   - Created Excel Template for easy of adding additional persona/scenarios
+   - Started creating Salesforce data model to create AI Prompts
+   - Started working on the Salesforce build - Templates, objects, etc...
 
 ## Contributors
 
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Full Name               | Team Role     | Github Username                                    | Working Group? 
+------------            | ------------- | -------------                                      |-------------   
+Enter persons name      | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
+April Smit              | Contributor   | ALeeWink                                           | Enter working group name
+Neils Haldane-Lutterodt | Contributor   | nhlutterodt                                        |
+Viet Hoang              | Contributor   | Arrivederci3716                                    |
+Pascal Masuba           | Contributor   |                                                    |
+Janvi Joshi             | Contributor   | Joshi-Janvi                                        |
+
 
 ## Future Contributions 
 (AKA what were you unable to finish at the Sprint)
 Replace with the goals your team would like to continue working on next time.
+
+- The team would like to continue working on the Salesforce build
 
 ***
 
