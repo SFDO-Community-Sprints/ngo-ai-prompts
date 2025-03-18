@@ -3,10 +3,14 @@ This is a sample README.md file you can use to update your project. New project 
 # ngo-ai-prompts
 
 # Project Overview
+  The team is working on creating a helpful guide of prompts to make using the AI tools easier for Nonprofits. There are different options available for users to leverage: Recipe book, excel template to create prompt response, salesforce build to generate a response.
+
 ## Vision & Goals
 Please replace with your projects vision.
-* Goal 1
-* Goal 2
+* Goal 1 - Create a library of AI prompt 
+* Goal 2 - Create best practices documentation
+* Goal 3 - Build the wiki
+* Goal 4 - Salesforce build to easily generate AI prompt recipes
 
 ## Project Vertical
 Please replace with Nonprofit, Education, or Other (if Other, explain further)
