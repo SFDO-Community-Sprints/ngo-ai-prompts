@@ -36,7 +36,7 @@ BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR 
 # Sprint (March 17 & 18 2025): 
 ## Project Team & Accomplishments
    Add details here - what you did, links to docs if there are any, etc.
-   - Created Excel Template for easy of adding additional persona/scenarios
+   - Created Excel Template for ease of adding additional persona/scenarios
    - Started creating Salesforce data model to create AI Prompts
    - Started working on the Salesforce build - Templates, objects, etc...
 
@@ -45,7 +45,7 @@ BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR 
 Full Name               | Team Role     | Github Username                                    | Working Group? 
 ------------            | ------------- | -------------                                      |-------------   
 Enter persons name      | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-April Smit              | Contributor   | ALeeWink                                           | Enter working group name
+April Smith             | Contributor   | ALeeWink                                           | Enter working group name
 Neils Haldane-Lutterodt | Contributor   | nhlutterodt                                        |
 Viet Hoang              | Contributor   | Arrivederci3716                                    |
 Pascal Masuba           | Contributor   |                                                    |
